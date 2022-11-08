@@ -24,7 +24,7 @@ public class constructor {
 class Dem {
     public static void main(String[] args) {
         constructor raju = new constructor();
-        //raju.talk();
+        raju.talk();
         constructor sita = new constructor("sita", 20);
         sita.talk();
 
